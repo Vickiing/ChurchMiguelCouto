@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NazareneChurch.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NazareneChurch.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\css\\base.css",
+      "PackagePath": "staticwebassets\\css\\base.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\avatars\\user-01.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\user-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\avatars\\user-02.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\user-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\avatars\\user-03.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\user-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\avatars\\user-04.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\user-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\avatars\\user-05.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\user-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\avatars\\user-06.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\user-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\header-bgs\\about-header-bg-2000.jpg",
+      "PackagePath": "staticwebassets\\images\\header-bgs\\about-header-bg-2000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\header-bgs\\connect-header-bg-2000.jpg",
+      "PackagePath": "staticwebassets\\images\\header-bgs\\connect-header-bg-2000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\header-bgs\\contact-header-bg-2000.jpg",
+      "PackagePath": "staticwebassets\\images\\header-bgs\\contact-header-bg-2000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\header-bgs\\events-header-bg-2000.jpg",
+      "PackagePath": "staticwebassets\\images\\header-bgs\\events-header-bg-2000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\header-bgs\\volunteer-header-bg-2000.jpg",
+      "PackagePath": "staticwebassets\\images\\header-bgs\\volunteer-header-bg-2000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\hero-bg-3000.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-bg-3000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\icons\\icon-arrow-left.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-arrow-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\icons\\icon-arrow-right.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\icons\\icon-calendar.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-calendar.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\icons\\icon-location.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-location.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\icons\\icon-quote.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-quote.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\icons\\icon-time.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-time.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\icons\\podcast\\icon-apple.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\podcast\\icon-apple.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\icons\\podcast\\icon-podcast.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\podcast\\icon-podcast.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\icons\\podcast\\icon-soundcloud.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\podcast\\icon-soundcloud.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\icons\\podcast\\icon-spotify.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\podcast\\icon-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\icons\\podcast\\icon-youtube.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\podcast\\icon-youtube.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\icons\\social\\icon-email.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\social\\icon-email.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\icons\\social\\icon-facebook.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\social\\icon-facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\icons\\social\\icon-instagram.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\social\\icon-instagram.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\icons\\social\\icon-twitter.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\social\\icon-twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\pattern.jpg",
+      "PackagePath": "staticwebassets\\images\\pattern.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\sample-image.jpg",
+      "PackagePath": "staticwebassets\\images\\sample-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\series-2000.jpg",
+      "PackagePath": "staticwebassets\\images\\series-2000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\thumbs\\events\\event-1000.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\events\\event-1000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\thumbs\\events\\event-2000.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\events\\event-2000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\thumbs\\events\\event-500.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\events\\event-500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\wheel-1000.jpg",
+      "PackagePath": "staticwebassets\\images\\wheel-1000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\wheel-2000.jpg",
+      "PackagePath": "staticwebassets\\images\\wheel-2000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\wheel-500.jpg",
+      "PackagePath": "staticwebassets\\images\\wheel-500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NazareneChurch.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NazareneChurch.props",
+      "PackagePath": "build\\NazareneChurch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NazareneChurch.props",
+      "PackagePath": "buildMultiTargeting\\NazareneChurch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NazareneChurch.props",
+      "PackagePath": "buildTransitive\\NazareneChurch.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
