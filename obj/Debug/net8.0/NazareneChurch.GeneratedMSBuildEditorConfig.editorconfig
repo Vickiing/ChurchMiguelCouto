@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\vlsilva\Documents\Projetos Csharp\NazareneChurch\NazareneChurch
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/vlsilva/Documents/Projetos Csharp/NazareneChurch/NazareneChurch/Pages/about.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/vlsilva/Documents/Projetos Csharp/NazareneChurch/NazareneChurch/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

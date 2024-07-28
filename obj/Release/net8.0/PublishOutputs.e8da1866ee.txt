@@ -1,0 +1,7 @@
+C:\Users\vlsilva\Documents\Projetos Csharp\NazareneChurch\NazareneChurch\obj\Release\net8.0\PubTmp\Out\NazareneChurch.exe
+C:\Users\vlsilva\Documents\Projetos Csharp\NazareneChurch\NazareneChurch\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\vlsilva\Documents\Projetos Csharp\NazareneChurch\NazareneChurch\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\vlsilva\Documents\Projetos Csharp\NazareneChurch\NazareneChurch\obj\Release\net8.0\PubTmp\Out\NazareneChurch.dll
+C:\Users\vlsilva\Documents\Projetos Csharp\NazareneChurch\NazareneChurch\obj\Release\net8.0\PubTmp\Out\NazareneChurch.deps.json
+C:\Users\vlsilva\Documents\Projetos Csharp\NazareneChurch\NazareneChurch\obj\Release\net8.0\PubTmp\Out\NazareneChurch.runtimeconfig.json
+C:\Users\vlsilva\Documents\Projetos Csharp\NazareneChurch\NazareneChurch\obj\Release\net8.0\PubTmp\Out\NazareneChurch.pdb
