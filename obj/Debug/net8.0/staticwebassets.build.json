@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WKWrQ22P0twhyjXaKYPOHBtTKvEkPkGxyl06MW2/29A=",
+  "Hash": "k+itW2UNl2asYK2AT9r9SWVc+HhNrgMk68Vk8CSL2NU=",
   "Source": "NazareneChurch",
   "BasePath": "_content/NazareneChurch",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\avatars\\pastora-vanessa.jpg",
+      "SourceId": "NazareneChurch",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\",
+      "BasePath": "_content/NazareneChurch",
+      "RelativePath": "images/avatars/pastora-vanessa.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\avatars\\pastora-vanessa.jpg"
     },
     {
       "Identity": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\avatars\\user-01.jpg",

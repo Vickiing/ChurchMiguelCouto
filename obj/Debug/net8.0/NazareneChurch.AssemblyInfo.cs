@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NazareneChurch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f20dce497ab38f6f469d2e17ec956d69db297d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b59cb45b6058fdd912dbb9f35b5635d35196e813")]
 [assembly: System.Reflection.AssemblyProductAttribute("NazareneChurch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NazareneChurch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

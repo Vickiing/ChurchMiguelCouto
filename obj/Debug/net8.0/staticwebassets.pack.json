@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\avatars\\pastora-vanessa.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\pastora-vanessa.jpg"
+    },
+    {
       "Id": "C:\\Users\\vlsilva\\Documents\\Projetos Csharp\\NazareneChurch\\NazareneChurch\\wwwroot\\images\\avatars\\user-01.jpg",
       "PackagePath": "staticwebassets\\images\\avatars\\user-01.jpg"
     },
